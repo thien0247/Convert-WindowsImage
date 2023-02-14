@@ -58,3 +58,8 @@ Powershell ISE is currently supported, but will be deprecated in further release
 
 The code is licensed under the GPLv3-License since version 21H2.
 The code **was** licensed under the MIT licencse (X11) before version 21H1 as per the original source this implementation is based upon. See `LICENSE` for details.
+
+#Tham khảo
+https://www.checkyourlogs.net/convert-windowsimage-ps1-not-working-with-windows-server-insider-17079-fixed-mvphour-mvpbuzz/
+https://www.powershellgallery.com/packages/Hyper-ConvertImage/10.1/Content/Convert-WindowsImage.ps1
+
